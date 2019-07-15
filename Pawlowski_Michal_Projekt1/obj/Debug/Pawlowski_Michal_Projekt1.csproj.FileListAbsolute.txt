@@ -1,0 +1,52 @@
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.csprojAssemblyReference.cache
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.Form1.resources
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.Properties.Resources.resources
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.csproj.GenerateResource.cache
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\Pawlowski_Michal_Projekt1.exe.config
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\Pawlowski_Michal_Projekt1.exe
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\Pawlowski_Michal_Projekt1.pdb
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\OxyPlot.dll
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.csproj.CopyComplete
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.exe
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.pdb
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.Progowanie.resources
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.DwuargumentoweForm.resources
+C:\Users\Michał\Desktop\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.Medianowe.resources
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\Pawlowski_Michal_Projekt1.exe.config
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.exe
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.pdb
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\Pawlowski_Michal_Projekt1.exe
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\Pawlowski_Michal_Projekt1.pdb
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\OxyPlot.dll
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.csprojResolveAssemblyReference.cache
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.DwuargumentoweForm.resources
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.Form1.resources
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.Medianowe.resources
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.Progowanie.resources
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.Properties.Resources.resources
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.csproj.GenerateResource.Cache
+C:\Users\pawlowm2\Desktop\Super Projekt\Projekt\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.OperacjeSasiedztwa.resources
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\Pawlowski_Michal_Projekt1.exe.config
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.exe
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.pdb
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\Pawlowski_Michal_Projekt1.exe
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\Pawlowski_Michal_Projekt1.pdb
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\OxyPlot.dll
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\OxyPlot.WindowsForms.dll
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\OxyPlot.WindowsForms.pdb
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\bin\Debug\OxyPlot.WindowsForms.xml
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.csprojResolveAssemblyReference.cache
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.DwuargumentoweForm.resources
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.Form1.resources
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.Medianowe.resources
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.OperacjeSasiedztwa.resources
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.Progowanie.resources
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.Properties.Resources.resources
+P:\Korzynska\APOD2018_2019\Egzamin\PawłowskiMichał\Pawlowski_Michal_Projekt1\Pawlowski_Michal_Projekt1\obj\Debug\Pawlowski_Michal_Projekt1.csproj.GenerateResource.Cache
